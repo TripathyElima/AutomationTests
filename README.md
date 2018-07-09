@@ -1,4 +1,5 @@
 Prerequisites to run these scripts on windows
+
 1- Document to refer - http://selenium-python.readthedocs.io/
 
 2- Requires Python 2.7.x from this link. https://www.python.org/downloads/
